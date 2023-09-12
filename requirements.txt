@@ -1,7 +1,6 @@
 pandas
 numpy
 scikit-learn
-pickle
 statsmodels.api
 seaborn
 matplotlib
