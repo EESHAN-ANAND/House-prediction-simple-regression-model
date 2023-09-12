@@ -1,0 +1,1 @@
+# House-prediction-simple-regression-model
